@@ -454,7 +454,6 @@
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"${BUILT_PRODUCTS_DIR}/**",
-					"${SRCROOT}/../../../ios/Pods/**",
 					"${SRCROOT}/../../../ios/Firebase/**",
 				);
 				HEADER_SEARCH_PATHS = (
@@ -483,7 +482,6 @@
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"${BUILT_PRODUCTS_DIR}/**",
-					"${SRCROOT}/../../../ios/Pods/**",
 					"${SRCROOT}/../../../ios/Firebase/**",
 				);
 				HEADER_SEARCH_PATHS = (
